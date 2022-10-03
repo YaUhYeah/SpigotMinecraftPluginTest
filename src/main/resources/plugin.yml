@@ -1,0 +1,10 @@
+main: com.yourname.test.Main
+author: 'Your name here'
+name: PluginName
+version: 0.1
+
+
+api-version: 1.18
+commands:
+  feed:
+  vanish:
